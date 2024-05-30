@@ -178,6 +178,6 @@ export default defineConfig({
   base: 'monitor-document',
   outDir: './monitor-document',
   redirects: {
-    '/public/images': '/images'
+    '/public/images': '/monitor-document/images'
   }
 });
