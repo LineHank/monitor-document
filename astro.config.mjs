@@ -176,4 +176,7 @@ export default defineConfig({
   integrations: [sitemap()],
   site: 'https://linehank.github.io/',
   base: 'monitor-document',
+  redirects: {
+    '/public/images': '/images'
+  }
 });
