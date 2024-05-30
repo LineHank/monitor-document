@@ -5,8 +5,8 @@ pubDate: 2024-05-28
 description: '告警规则使用文档'
 author: 'howe'
 cover:
-    url: '/public/images/title5.png'
-    square: '/public/images/title5.png'
+    url: '/images/title5.png'
+    square: '/images/title5.png'
     alt: 'cover'
 tags: ["监控中心"] 
 theme: 'dark'
@@ -23,25 +23,25 @@ featured: false
 ### 1、PromQL 新手模式
 可通过选择数据源，打开新手模式，便捷式设置sql
 
-![|inline](/public/images/7.png)
+![|inline](/images/7.png)
 
-![|inline](/public/images/8.png)
+![|inline](/images/8.png)
 
 ### 2、新增/编辑规则
 按照下图的参照，新增规则，有疑问的地方可查看标红的提示
 
-![|inline](/public/images/9.png)
+![|inline](/images/9.png)
 
 ### 3、保存模板、克隆模板
-![|inline](/public/images/10.png)
+![|inline](/images/10.png)
 
-![|inline](/public/images/11.png)
+![|inline](/images/11.png)
 
 ### 4、规则列表
-![|inline](/public/images/12.png)
+![|inline](/images/12.png)
 
 # 操作演示
 
-![|inline](/public/images/5.gif)
+![|inline](/images/5.gif)
 
 
