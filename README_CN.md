@@ -4,11 +4,11 @@
 
 ## 教程
 
-[https://yufengbiji.com/posts/astro-air-blog-guide](https://yufengbiji.com/posts/astro-air-blog-guide)
+[https://github.com/LineHank/posts/astro-air-blog-guide](https://github.com/LineHank/posts/astro-air-blog-guide)
 
 ## 预览
 
-[https://yufengbiji.com](https://yufengbiji.com)
+[https://github.com/LineHank](https://github.com/LineHank)
 
 [https://astro.yufengbiji.com](https://astro.yufengbiji.com)
 
