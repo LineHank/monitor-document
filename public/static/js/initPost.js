@@ -1,7 +1,7 @@
 
 // console.log("postInit.js loaded");
 var scriptMd5 = document.createElement("script");
-scriptMd5.src = "/static/js/md5.js";
+scriptMd5.src = "/monitor-document/static/js/md5.js";
 document.head.appendChild(scriptMd5);
 
 scriptMd5.onload = function () {
@@ -14,7 +14,7 @@ scriptMd5.onload = function () {
 
 function initLazyLoad() {
   var script = document.createElement("script");
-  script.src = "/static/js/animation.js";
+  script.src = "/monitor-document/static/js/animation.js";
   document.head.appendChild(script);
 
   script.onload = function () {
