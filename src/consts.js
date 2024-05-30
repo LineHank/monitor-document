@@ -2,7 +2,7 @@ export const SITE_TITLE = `monitor`;
 export const SITE_DESCRIPTION = 'Site Description';
 export const SITE_EMAIL = 'xulihao.aukeys.com'
 export const SITE_NAME = 'xulihao.aukeys.com';
-export const SITE_URL = "https://linehank.github.io";
+export const SITE_URL = "https://linehank.github.io/monitor-document";
 export const SITE_LANG = "zh-CN";
 
 // Author, used only when author is not specified on the page, 
