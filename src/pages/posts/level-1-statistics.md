@@ -5,8 +5,8 @@ pubDate: 2024-05-28
 description: '告警大盘告警大盘使用文档'
 author: 'howe'
 cover:
-    url: '/images/title2.jpg'
-    square: '/images/title2.jpg'
+    url: '/public/images/title2.jpg'
+    square: '/public/images/title2.jpg'
     alt: 'cover'
 tags: ["监控中心"] 
 theme: 'dark'
