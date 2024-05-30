@@ -5,8 +5,8 @@ pubDate: 2024-05-28
 description: '仪表盘使用文档'
 author: 'howe'
 cover:
-    url: '/public/images/title1.png'
-    square: '/public/images/title1.png'
+    url: '/monitor-document/images/title1.png'
+    square: '/monitor-document/images/title1.png'
     alt: 'cover'
 tags: ["监控中心"] 
 theme: 'dark'
@@ -39,11 +39,11 @@ Import dashboard from file or Grafana.com
 
 每个数据源的查询语言和能力都是不同的。你可以把来自多个数据源的数据组合到一个仪表板，但每一个面板被绑定到一个特定的数据源,它就属于一个特定的组织。
 
-![|inline](/public/images/1.png)
+![|inline](/monitor-document/images/1.png)
 
 可通过添加数据源增加不同种类的数据源给与Dashboards使用
 
-![|inline](/public/images/2.png)
+![|inline](/monitor-document/images/2.png)
 
 # Dashboards
 ### 功能介绍
@@ -53,4 +53,4 @@ Import dashboard from file or Grafana.com
 默认仪表盘
 
 # 操作演示
-![|inline](/public/images/1.gif)
+![|inline](/monitor-document/images/1.gif)
