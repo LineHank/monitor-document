@@ -52,6 +52,5 @@ Import dashboard from file or Grafana.com
 # HOME
 默认仪表盘
 
-
 # 操作演示
 ![|inline](/public/images/1.gif)
