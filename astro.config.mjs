@@ -177,7 +177,6 @@ export default defineConfig({
   site: 'https://linehank.github.io/',
   base: 'monitor-document',
   redirects: {
-    '/public/images': '/images',
-    '/tags': '/monitor-document/tags',
+    '/public/images': '/images'
   }
 });
