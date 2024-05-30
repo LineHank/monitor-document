@@ -174,4 +174,5 @@ export default defineConfig({
     syntaxHighlight: 'prism',
   },
   integrations: [sitemap()],
+  site: 'https://LineHank.github.io'
 });
